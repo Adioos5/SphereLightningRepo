@@ -1,0 +1,37 @@
+C:\Users\adria\source\repos\GK - projekt 2\GK - projekt 2\bin\Debug\net6.0-windows\GK - projekt 2.exe
+C:\Users\adria\source\repos\GK - projekt 2\GK - projekt 2\bin\Debug\net6.0-windows\GK - projekt 2.deps.json
+C:\Users\adria\source\repos\GK - projekt 2\GK - projekt 2\bin\Debug\net6.0-windows\GK - projekt 2.runtimeconfig.json
+C:\Users\adria\source\repos\GK - projekt 2\GK - projekt 2\bin\Debug\net6.0-windows\GK - projekt 2.dll
+C:\Users\adria\source\repos\GK - projekt 2\GK - projekt 2\bin\Debug\net6.0-windows\GK - projekt 2.pdb
+C:\Users\adria\source\repos\GK - projekt 2\GK - projekt 2\bin\Debug\net6.0-windows\CjClutter.ObjLoader.Loader.dll
+C:\Users\adria\source\repos\GK - projekt 2\GK - projekt 2\bin\Debug\net6.0-windows\CjClutter.ObjLoader.Loader.pdb
+C:\Users\adria\source\repos\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\GK - projekt 2.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\GK___projekt_2.Form1.resources
+C:\Users\adria\source\repos\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\GK - projekt 2.csproj.GenerateResource.cache
+C:\Users\adria\source\repos\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\GK - projekt 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\GK - projekt 2.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\GK - projekt 2.AssemblyInfo.cs
+C:\Users\adria\source\repos\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\GK - projekt 2.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\GK - projekt 2.csproj.CopyComplete
+C:\Users\adria\source\repos\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\GK - projekt 2.dll
+C:\Users\adria\source\repos\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\refint\GK - projekt 2.dll
+C:\Users\adria\source\repos\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\GK - projekt 2.pdb
+C:\Users\adria\source\repos\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\GK - projekt 2.genruntimeconfig.cache
+C:\Users\adria\source\repos\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\ref\GK - projekt 2.dll
+C:\Users\adria\Desktop\GK-Proj2\GK - projekt 2\GK - projekt 2\bin\Debug\net6.0-windows\GK - projekt 2.exe
+C:\Users\adria\Desktop\GK-Proj2\GK - projekt 2\GK - projekt 2\bin\Debug\net6.0-windows\GK - projekt 2.deps.json
+C:\Users\adria\Desktop\GK-Proj2\GK - projekt 2\GK - projekt 2\bin\Debug\net6.0-windows\GK - projekt 2.runtimeconfig.json
+C:\Users\adria\Desktop\GK-Proj2\GK - projekt 2\GK - projekt 2\bin\Debug\net6.0-windows\GK - projekt 2.dll
+C:\Users\adria\Desktop\GK-Proj2\GK - projekt 2\GK - projekt 2\bin\Debug\net6.0-windows\GK - projekt 2.pdb
+C:\Users\adria\Desktop\GK-Proj2\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\GK - projekt 2.csproj.AssemblyReference.cache
+C:\Users\adria\Desktop\GK-Proj2\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\GK___projekt_2.Form1.resources
+C:\Users\adria\Desktop\GK-Proj2\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\GK - projekt 2.csproj.GenerateResource.cache
+C:\Users\adria\Desktop\GK-Proj2\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\GK - projekt 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Desktop\GK-Proj2\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\GK - projekt 2.AssemblyInfoInputs.cache
+C:\Users\adria\Desktop\GK-Proj2\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\GK - projekt 2.AssemblyInfo.cs
+C:\Users\adria\Desktop\GK-Proj2\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\GK - projekt 2.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\GK-Proj2\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\GK - projekt 2.dll
+C:\Users\adria\Desktop\GK-Proj2\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\refint\GK - projekt 2.dll
+C:\Users\adria\Desktop\GK-Proj2\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\GK - projekt 2.pdb
+C:\Users\adria\Desktop\GK-Proj2\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\GK - projekt 2.genruntimeconfig.cache
+C:\Users\adria\Desktop\GK-Proj2\GK - projekt 2\GK - projekt 2\obj\Debug\net6.0-windows\ref\GK - projekt 2.dll
